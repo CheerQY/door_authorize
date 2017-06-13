@@ -16,8 +16,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
-  height:640px;
+  width:320px;
+  height:540px;
   background:inherit;
   background-color:rgba(215, 215, 215, 0.67843137254902);
   box-sizing:border-box;
@@ -33,14 +33,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
-  height:640px;
+  width:320px;
+  height:540px;
 }
 #u2 {
   position:absolute;
   left:2px;
-  top:312px;
-  width:376px;
+  top:262px;
+  width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
