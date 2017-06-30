@@ -471,7 +471,7 @@
 .u31 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:6px;
   width:318px;
   height:77px;
 }
@@ -500,7 +500,7 @@
 .u33 {
   position:absolute;
   left:17px;
-  top:19px;
+  top:24px;
   width:29px;
   height:16px;
 }
@@ -533,7 +533,7 @@
 .u35 {
   position:absolute;
   left:216px;
-  top:12px;
+  top:17px;
   width:83px;
   height:30px;
   font-size:12px;
@@ -585,7 +585,7 @@
 .u37 {
   position:absolute;
   left:17px;
-  top:56px;
+  top:61px;
   width:92px;
   height:15px;
   font-size:12px;
@@ -615,7 +615,7 @@
 .u39 {
   position:absolute;
   left:152px;
-  top:56px;
+  top:61px;
   width:13px;
   height:15px;
   font-size:12px;
@@ -645,7 +645,7 @@
 .u41 {
   position:absolute;
   left:208px;
-  top:56px;
+  top:61px;
   width:92px;
   height:15px;
   font-size:12px;
